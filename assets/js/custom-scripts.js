@@ -5,6 +5,7 @@
       return this.addBack.apply(this, arguments);
     }
   
+
       /* Loader Code Start */
       $(window).on("load", function() { 
           $(".section-loader").fadeOut("slow");
