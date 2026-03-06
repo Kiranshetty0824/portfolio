@@ -41,6 +41,7 @@
       // }
   
 
+
       $(window).on('load', function() {
         $('#header-slider #animation-slide').owlCarousel({
                autoHeight: true,
